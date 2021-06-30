@@ -8,7 +8,7 @@
 
 <br />
 
-##2. After that, use this script:
+##2. After that, use this script: (Or use run.cmd if you dont use bash)
 
 
 ```bash
