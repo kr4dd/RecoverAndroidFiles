@@ -46,7 +46,7 @@ adb push build.prop /system/
 adb reboot recovery
 
 ::Clean
-rm persist.sys.usb.config build.prop
+del persist.sys.usb.config build.prop
 cd ..
 rmdir %DIR%
 
